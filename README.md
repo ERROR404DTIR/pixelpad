@@ -2,7 +2,7 @@
 
 <p align="center"><img src="assets/readme-banner.svg" width="100%" alt="PixelPad animated banner"></p>
 
-A tiny pixel-art studio in your browser. Draw on a pixel grid, undo edits, import images, and export crisp PNG sprites.
+Pixel art editor with a resizable grid, brush, undo, image import and PNG export.
 
 ## Features
 - Responsive desktop and mobile interface
@@ -18,7 +18,7 @@ A tiny pixel-art studio in your browser. Draw on a pixel grid, undo edits, impor
 Optional local server: run `python -m http.server 8000` inside the folder, then open `http://localhost:8000`.
 
 ## Privacy
-Your input is processed in the browser and is not uploaded by this application. Export important work to your device.
+Your input is processed in the browser and is not uploaded by this application.
 
 ## License
 MIT.
